@@ -1,39 +1,127 @@
-# DSA Practice Repository
+# 📚 DSA Practice Repository
 
-This repository contains my solutions to **Data Structures and Algorithms problems** from platforms like LeetCode.
+Welcome to my **Data Structures & Algorithms (DSA) Practice Repository**! 🚀
 
-## Languages
+This repository contains my solutions to various DSA problems solved during my interview preparation. The problems are primarily from **LeetCode** and are organized topic-wise for easy navigation.
 
-* C++
+---
 
-## Topics Covered
+## 👩‍💻 About
 
-* Arrays
-* Bit Manipulation
-* Geometry
-* Linked-List
-* Math
-* Matrix
-* Number Theory
-* Stack
-* String
+- 💻 Language: **C++**
+- 📖 Platform: **LeetCode**
+- 🎯 Goal: Strengthen problem-solving skills and master Data Structures & Algorithms.
+- 📈 Regularly updated with new solutions.
 
-## 📊 Progress
+---
 
-| Topic            | Problems |
-| ---------------- | -------- |
-| Arrays           | 28       |
-| Bit Manipulation | 1        |
-| Geometry         | 5        |
-| Linked-List      | 4        |
-| Math             | 2        |
-| Matrix           | 11       |
-| Number Theory    | 1        |
-| Stack            | 1        |
-| String           | 9        |
+# 📂 Repository Structure
 
-**Total Problems Solved: 62**
+```
+DSA-Practice/
+│
+├── Arrays/
+├── Binary_Search/
+├── Binary_Search_Tree/
+├── Bit_Manipulation/
+├── Geometry/
+├── Hash_Table/
+├── Linked-List/
+├── Math/
+├── Matrix/
+├── Number Theory/
+├── Sliding_Window/
+├── Stack/
+├── String/
+├── Tree/
+├── Two_Pointer/
+└── BFS_DFS/
+```
 
-## 🔥 Goal
+---
 
-Solve DSA problems daily and improve problem-solving skills.
+# 📚 Topics Covered
+
+| Topic | Problems |
+|-------|----------:|
+| Arrays | 65 |
+| Binary Search | 14 |
+| Binary Search Tree | 3 |
+| BFS / DFS | 3 |
+| Bit Manipulation | 3 |
+| Geometry | 5 |
+| Hash Table | 1 |
+| Linked List | 12 |
+| Math | 19 |
+| Matrix | 19 |
+| Number Theory | 1 |
+| Sliding Window | 1 |
+| Stack | 1 |
+| String | 21 |
+| Tree | 11 |
+| Two Pointer | 1 |
+
+---
+
+# 🎯 Objectives
+
+- Improve problem-solving skills.
+- Build strong DSA fundamentals.
+- Prepare for coding interviews.
+- Learn multiple approaches to solving problems.
+- Write clean and optimized C++ solutions.
+
+---
+
+# 🚀 Features
+
+✔ Topic-wise organized solutions
+
+✔ Optimized C++ implementations
+
+✔ Easy-to-navigate folder structure
+
+✔ Consistent practice repository
+
+✔ Continuously updated
+
+---
+
+# 📈 Progress
+
+- ✅ 180+ Problems Solved
+- 🔄 Repository updated regularly
+- 🎯 Target: 300+ Problems
+
+---
+
+# 🛠️ Tech Stack
+
+- C++
+- STL (Standard Template Library)
+- Git
+- GitHub
+
+---
+
+# 🤝 Contributions
+
+This repository is maintained for learning and interview preparation.
+
+If you find any improvements or better approaches, feel free to open an Issue or Pull Request.
+
+---
+
+# ⭐ If you find this repository useful
+
+Please consider giving it a ⭐ on GitHub!
+
+It motivates me to keep learning and sharing more solutions.
+
+---
+
+## 👤 Author
+
+**Madhura Barve**
+
+- GitHub: https://github.com/MADHURA1907
