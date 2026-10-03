@@ -1,3 +1,6 @@
+#include <bits/stdc++.h>
+using namespace std;
+
 class Solution {
 public:
     int longestValidParentheses(string s) {
@@ -53,3 +56,10 @@ public:
         return ans;
     }
 };
+
+int main()
+{
+    Solution s;
+    cout<<s.longestValidParentheses(")()())")<<endl;
+    return 0;
+}
