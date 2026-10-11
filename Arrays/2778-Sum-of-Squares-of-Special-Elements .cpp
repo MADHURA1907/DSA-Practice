@@ -22,6 +22,7 @@ public:
 int main()
 {
     Solution s;
-    cout << s.sumOfSquares({1,2,3,4,5}) << endl;
+    vector<int> nums = {1, 2, 3, 4, 5};
+    cout << s.sumOfSquares(nums) << endl;
 
 }
