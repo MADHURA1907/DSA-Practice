@@ -20,5 +20,6 @@ public:
 int main()
 {
     Solution s;
-    cout<<s.minMergedInteger({12, 34, 56, 78})<<endl;
+    vector<int> nums={12, 34, 56, 78};
+    cout<<s.minMergedInteger(nums)<<endl;
 }
