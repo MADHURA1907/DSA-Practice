@@ -1,8 +1,18 @@
 #include <bits/stdc++.h>
+#include <numeric>
 using namespace std;
 
 class Solution {
 public:
+    long long gcd(long long a, long long b) {
+        while (b != 0) {
+            long long remainder = a % b;
+            a = b;
+            b = remainder;
+        }
+        return a;
+    }
+
     long long lcm(long long a, long long b) {
         return (a / gcd(a, b)) * b;
     }
